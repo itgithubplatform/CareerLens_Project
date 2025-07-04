@@ -1,6 +1,6 @@
-# 💼 PathWise AI – Tech vs Non-Tech Career Predictor
+# 💼 CareerLens AI – Tech vs Non-Tech Career Predictor
 
-**PathWise AI** is a smart, machine learning–powered web application built with **Streamlit** that helps individuals discover whether they are more aligned with a **Tech** or **Non-Tech** career path, based on 18+ critical career and personal development indicators.
+**CareerLens AI** is a smart, machine learning–powered web application built with **Streamlit** that helps individuals discover whether they are more aligned with a **Tech** or **Non-Tech** career path, based on 18+ critical career and personal development indicators.
 
 🚀 **Live Demo**: *(Add your Streamlit Cloud link here once deployed)*
 
@@ -46,7 +46,7 @@ The model uses the following input features:
 ---
 
 ## 📂 Folder Structure
-PathWiseAI/
+CareerLensAI/
 ├── app.py # Streamlit frontend (main file)
 ├── career_model.pkl # Trained classification model (RandomForest or similar)
 ├── label_encoders.pkl # Pre-fitted label encoders for categorical features
@@ -85,8 +85,8 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-- **Devendra Savalkar**  
-  📧 [LinkedIn](https://www.linkedin.com/in/devendra-savalkar) | 🌐 *Add other links if you'd like*
+- **BENU GOPAL KANJILAL**  
+  📧 [LinkedIn](http://www.linkedin.com/in/benug25) |
 
 ---
 
